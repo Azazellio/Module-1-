@@ -1,0 +1,9 @@
+C:\Users\Nazar\Documents\c#Projects\moduleWork\moduleWork\bin\Debug\moduleWork.exe.config
+C:\Users\Nazar\Documents\c#Projects\moduleWork\moduleWork\bin\Debug\moduleWork.exe
+C:\Users\Nazar\Documents\c#Projects\moduleWork\moduleWork\bin\Debug\moduleWork.pdb
+C:\Users\Nazar\Documents\c#Projects\moduleWork\moduleWork\obj\Debug\moduleWork.csprojAssemblyReference.cache
+C:\Users\Nazar\Documents\c#Projects\moduleWork\moduleWork\obj\Debug\moduleWork.Form1.resources
+C:\Users\Nazar\Documents\c#Projects\moduleWork\moduleWork\obj\Debug\moduleWork.Properties.Resources.resources
+C:\Users\Nazar\Documents\c#Projects\moduleWork\moduleWork\obj\Debug\moduleWork.csproj.GenerateResource.cache
+C:\Users\Nazar\Documents\c#Projects\moduleWork\moduleWork\obj\Debug\moduleWork.exe
+C:\Users\Nazar\Documents\c#Projects\moduleWork\moduleWork\obj\Debug\moduleWork.pdb
